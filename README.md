@@ -10,7 +10,7 @@ Soy un desarrollador de aplicaciones Multiplataforma, con lenguajes como: [Java,
 [![Repositorio 2](https://img.shields.io/badge/Repositorio%202-%234AACC5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeLaKruz/PMDM_YDLCGB)
 
 <center><h4>Proyecto Ahorcado 1º DAM</h4>
-<center>[![Imagen.png](https://i.postimg.cc/7ZLXJJG3/Captura-de-pantalla-2023-10-04-234026.jpg)]
+![Image](https://i.postimg.cc/7ZLXJJG3/Captura-de-pantalla-2023-10-04-234026.jpg)
 
 # Contactos
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yerayg466@gmail.com)
