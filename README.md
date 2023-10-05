@@ -7,10 +7,8 @@ Soy un desarrollador de aplicaciones en [Java, Kotlin, HTML, CSS...]. Estoy apas
 
 # Repositorios
 |---|---|
-| [Repositorio 1](https://github.com/DeLaKruz/AhorcadoGrafico "Ahorcado Gráfico") | Ahorcado Gráfico |
-| [Repositorio 2](https://github.com/DeLaKruz/AhorcadoGrafico "Práctica PMDM") | Práctica PMDM |
-* [Repositorio 1]([https://github.com/tu_usuario/repositorio_1]())
-* [Repositorio 2]([https://github.com/tu_usuario/repositorio_2](C))
+| [![Repositorio 1](https://img.shields.io/badge/Repositorio%201-%23D14836?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeLaKruz/AhorcadoGrafico) | Este es el primer repositorio. |
+| [![Repositorio 2](https://img.shields.io/badge/Repositorio%202-%23D14836?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeLaKruz/PMDM_YDLCGB) | Este es el segundo repositorio. |
 
 # Contactos
 
