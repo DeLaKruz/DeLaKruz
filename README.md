@@ -10,8 +10,11 @@ Soy un desarrollador de aplicaciones Multiplataforma, con lenguajes como: [Java,
 [![Repositorio 2](https://img.shields.io/badge/Repositorio%202-%234AACC5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeLaKruz/PMDM_YDLCGB)
 
 <a href="https://github.com/DeLaKruz/AhorcadoGrafico">
-  <img src="https://i.postimg.cc/7ZLXJJG3/Captura-de-pantalla-2023-10-04-234026.jpg" alt="AhorcadoGrafico" width="200" style="border: 2px solid #007BFF; transition: transform 0.2s;">
+  <img src="https://i.postimg.cc/7ZLXJJG3/Captura-de-pantalla-2023-10-04-234026.jpg" alt="AhorcadoGrafico" width="400" style="border: 2px solid #007BFF; transition: transform 0.2s;">
 </a>
+
+# Contactos
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yerayg466@gmail.com)
 
 <style>
   img:hover {
@@ -19,9 +22,4 @@ Soy un desarrollador de aplicaciones Multiplataforma, con lenguajes como: [Java,
     border: 2px solid #FF5733;
   }
 </style>
-
-
-
-# Contactos
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yerayg466@gmail.com)
 
