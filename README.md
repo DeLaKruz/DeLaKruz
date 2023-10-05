@@ -12,7 +12,7 @@ Soy un desarrollador de aplicaciones Multiplataforma, con lenguajes como: [Java,
 <div align="center">
   <h5>Proyecto de Ahorcado Gráfico 1º DAM</h5>
   <a href="https://github.com/DeLaKruz/AhorcadoGrafico">
-    <img src="https://postimg.cc/HrSrRqhS" alt="AhorcadoGrafico" width="400" style="border: 2px solid #007BFF; transition: transform 0.2s;">
+    <img src="https://i.postimg.cc/rpT50cCL/Captura-de-pantalla-2023-10-04-234026.png" alt="AhorcadoGrafico" width="400" style="border: 2px solid #007BFF; transition: transform 0.2s;">
   </a>
 </div>
 # Contactos
