@@ -3,8 +3,8 @@
 
 # Sobre mí
 
-Soy un desarrollador de aplicaciones Multiplataforma, con lenguajes como:                                                  
-[Java, Kotlin, HTML, CSS...].                                                       
+Soy un desarrollador de aplicaciones Multiplataforma, con lenguajes como: \n
+[Java, Kotlin, HTML, CSS...]. \n                                                       
 Estoy apasionado por el mundo de la programación, especialmente de videojuegos.
 🎮​🎮​👨🏻‍💻​👨🏻‍💻​
 
