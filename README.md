@@ -5,7 +5,7 @@
 
 Soy un desarrollador de aplicaciones Multiplataforma, con lenguajes como: [Java, Kotlin, HTML, CSS...]. Estoy apasionado por el mundo de la programación, especialmente de videojuegos.
 
-# Repositorios
+# Repositorios Fijados
 [![Repositorio 1](https://img.shields.io/badge/Repositorio%201-%234AACC5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeLaKruz/AhorcadoGrafico) 
 [![Repositorio 2](https://img.shields.io/badge/Repositorio%202-%234AACC5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeLaKruz/PMDM_YDLCGB)
 
