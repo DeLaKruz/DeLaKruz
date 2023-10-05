@@ -1,16 +1,17 @@
 ### Hi there 👋
+# Banner
 
-<!--
-**DeLaKruz/DeLaKruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![banner.png](https://i.postimg.cc/5yxBZgGF/banner.png)](https://postimg.cc/WFHqZGs2)
 
-Here are some ideas to get you started:
+# Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy un desarrollador de aplicaciones en [Java, Kotlin, HTML, CSS...]. Estoy apasionado por el mundo de la programación, especialmente de videojuegos.
+
+# Repositorios
+
+* [Repositorio 1]([https://github.com/tu_usuario/repositorio_1](https://github.com/DeLaKruz/AhorcadoGrafico))
+* [Repositorio 2]([https://github.com/tu_usuario/repositorio_2](https://github.com/DeLaKruz/PMDM_YDLCGB))
+
+# Contactos
+
+* [Correo electrónico](https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white&interactive=true&url=mailto:yerayg466@gmail.com)
