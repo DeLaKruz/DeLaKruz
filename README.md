@@ -3,7 +3,7 @@
 
 # Sobre mí
 
-Soy un desarrollador de aplicaciones en [Java, Kotlin, HTML, CSS...]. Estoy apasionado por el mundo de la programación, especialmente de videojuegos.
+Soy un desarrollador de aplicaciones Multiplataforma, con lenguajes como: [Java, Kotlin, HTML, CSS...]. Estoy apasionado por el mundo de la programación, especialmente de videojuegos.
 
 # Repositorios
 [![Repositorio 1](https://img.shields.io/badge/Repositorio%201-%23D14836?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeLaKruz/AhorcadoGrafico)
