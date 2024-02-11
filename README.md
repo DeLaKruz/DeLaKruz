@@ -5,7 +5,7 @@
 
 Soy un desarrollador de aplicaciones Multiplataforma, con lenguajes como: <br>
 [Java, Kotlin, HTML, CSS...]. <br>                                                   
-Estoy apasionado por el mundo de la programación, especialmente de videojuegos. <br>
+Me encanta programar <br>
 🎮​🎮​👨🏻‍💻​👨🏻‍💻​
 
 # Repositorios Fijados
