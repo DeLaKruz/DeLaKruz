@@ -13,9 +13,9 @@ Me encanta programar <br>
 [![Repositorio 2](https://img.shields.io/badge/Repositorio%202-%234AACC5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeLaKruz/AmazingCardGame)
 
 <div align="center">
-  <h5>Proyecto de Ahorcado Gráfico 1º DAM</h5>
-  <a href="https://github.com/DeLaKruz/AhorcadoGrafico">
-    <img src="https://i.postimg.cc/rpT50cCL/Captura-de-pantalla-2023-10-04-234026.png" alt="AhorcadoGrafico" width="400" style="border: 2px solid #007BFF; transition: transform 0.2s;">
+  <h5>TFG DAM - THE BLIZZARD (VIDEOJUEGO)</h5>
+  <a href="(https://github.com/DeLaKruz/TFG-DAM-VIDEOJUEGO-THEBLIZZARD)">
+    <img src="[![LOGO.png](https://i.postimg.cc/sfPNMBH6/LOGO.png)](https://postimg.cc/w3vVPBpL)" width="400" style="border: 2px solid #007BFF; transition: transform 0.2s;">
   </a>
 </div>
 
