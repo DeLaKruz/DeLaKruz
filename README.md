@@ -15,7 +15,7 @@ Me encanta programar <br>
 <div align="center">
   <h5>TFG DAM - THE BLIZZARD (VIDEOJUEGO)</h5>
   <a href="(https://github.com/DeLaKruz/TFG-DAM-VIDEOJUEGO-THEBLIZZARD)">
-    <img src="https://postimg.cc/w3vVPBpL" style="border: 2px solid #007BFF; transition: transform 0.2s;">
+    <img src="[https://postimg.cc/w3vVPBpL](https://postimg.cc/w3vVPBpL)" style="border: 2px solid #007BFF; transition: transform 0.2s;">
   </a>
 </div>
 
