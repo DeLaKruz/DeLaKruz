@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![banner.png](https://i.postimg.cc/5yxBZgGF/banner.png)](https://postimg.cc/WFHqZGs2)
+[![banner.png](https://i.postimg.cc/020TvvQc/github-header-image.png)](https://postimg.cc/CzdPCWbq)
 
 # Sobre mí
 
