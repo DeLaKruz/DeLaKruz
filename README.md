@@ -9,8 +9,13 @@ Soy un desarrollador de aplicaciones Multiplataforma, con lenguajes como: <br>
 Me encanta programar <br>
 🎮​🎮​👨🏻‍💻​👨🏻‍💻​
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeLaKruz&theme=catppuccin_mocha&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeLaKruz&theme=catppuccin_mocha&show_icons=true)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 # Repositorios Fijados
 [![Repositorio 1](https://img.shields.io/badge/Repositorio%201-%234AACC5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeLaKruz/AhorcadoGrafico) 
@@ -25,4 +30,8 @@ Me encanta programar <br>
 
 # Contactos
 
+<div align="center">
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yerayg466@gmail.com)
+
+</div>
