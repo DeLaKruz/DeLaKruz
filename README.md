@@ -13,12 +13,12 @@ Me encanta programar <br>
   
   <table>
     <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=DeLaKruz&theme=catppuccin_mocha&show_icons=true" />
+      <td style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api?username=DeLaKruz&theme=catppuccin_mocha&show_icons=true" style="border: none;" />
       </td>
-      <td>
+      <td style="border: none;">
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=dark" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeLaKruz&layout=donut&theme=dark" style="border: none;" />
         </a>
       </td>
     </tr>
