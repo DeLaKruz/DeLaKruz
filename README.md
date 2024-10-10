@@ -11,15 +11,29 @@ Me encanta programar <br>
 
 <div align="center">
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeLaKruz&theme=catppuccin_mocha&show_icons=true)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=DeLaKruz&theme=catppuccin_mocha&show_icons=true" />
+      </td>
+      <td>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=dark" />
+        </a>
+      </td>
+    </tr>
+  </table>
 
 </div>
 
 # Repositorios Fijados
-[![Repositorio 1](https://img.shields.io/badge/Repositorio%201-%234AACC5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeLaKruz/AhorcadoGrafico) 
-[![Repositorio 2](https://img.shields.io/badge/Repositorio%202-%234AACC5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeLaKruz/AmazingCardGame)
+
+<div align="center">
+
+  [![Repositorio 1](https://img.shields.io/badge/Repositorio%201-%234AACC5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeLaKruz/AhorcadoGrafico) 
+  [![Repositorio 2](https://img.shields.io/badge/Repositorio%202-%234AACC5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeLaKruz/AmazingCardGame)
+
+</div>
 
 <div align="center">
   <h5>TFG DAM - THE BLIZZARD (VIDEOJUEGO)</h5>
@@ -32,6 +46,6 @@ Me encanta programar <br>
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yerayg466@gmail.com)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yerayg466@gmail.com)
 
 </div>
