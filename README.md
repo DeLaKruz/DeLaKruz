@@ -10,7 +10,7 @@ Me encanta programar <br>
 🎮​🎮​👨🏻‍💻​👨🏻‍💻​
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeLaKruz&theme=catppuccin_mocha&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeLaKruz&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 # Repositorios Fijados
 [![Repositorio 1](https://img.shields.io/badge/Repositorio%201-%234AACC5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeLaKruz/AhorcadoGrafico) 
