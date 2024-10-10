@@ -8,7 +8,7 @@ Soy un desarrollador de aplicaciones Multiplataforma, con lenguajes como: <br>
 Me encanta programar <br>
 🎮​🎮​👨🏻‍💻​👨🏻‍💻​
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeLaKruz&theme=catppuccin_mocha&show_icons=true)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DeLaKruz)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DeLaKruz&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 # Repositorios Fijados
 [![Repositorio 1](https://img.shields.io/badge/Repositorio%201-%234AACC5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeLaKruz/AhorcadoGrafico) 
